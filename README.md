@@ -3,5 +3,5 @@
 
 ## 🔗 Links
 #### GitHub Repository:(https://github.com/MuznaZuberi/Milestone-3-Dynamic-Resume-Builder)
-#### Live Demo on Vercel: (https://dynamic-resume-muzna-amir-zubairi.vercel.app/)
+#### Live Demo on Vercel: (https://milestone-03-dynamc-resume.vercel.app/)
 
